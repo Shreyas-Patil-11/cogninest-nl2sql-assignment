@@ -45,7 +45,6 @@ Thumbs.db
 # =========================
 # Test / output files
 # =========================
-RESULTS.md
 *.csv
 *.xlsx
 
